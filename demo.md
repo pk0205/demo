@@ -4,4 +4,4 @@ this is a simple readme file
 
 ## added
 
-some modification  , on branch
+very bad update
